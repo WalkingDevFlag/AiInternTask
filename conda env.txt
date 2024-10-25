@@ -1,0 +1,13 @@
+Conda ENV
+
+1) conda create -n w python=3.8
+
+2) conda activate w
+
+3) pip install requests
+
+4) pip install jupyter notebook ipykernel
+
+5) python -m ipykernel install --user --name w
+
+6) pip install pymongo PyPDF2 fitz

@@ -1,0 +1,128 @@
+[
+    {
+        "document_name": "pdf1.pdf",
+        "path": "E:/Random Python Scripts/wasserstoff/Dataset\\pdf1.pdf",
+        "size": "634.79 KB",
+        "num_pages": 11,
+        "length_category": "Medium"
+    },
+    {
+        "document_name": "pdf10.pdf",
+        "path": "E:/Random Python Scripts/wasserstoff/Dataset\\pdf10.pdf",
+        "size": "2.03 MB",
+        "num_pages": 54,
+        "length_category": "Long"
+    },
+    {
+        "document_name": "pdf11.pdf",
+        "path": "E:/Random Python Scripts/wasserstoff/Dataset\\pdf11.pdf",
+        "size": "538.40 KB",
+        "num_pages": 14,
+        "length_category": "Medium"
+    },
+    {
+        "document_name": "pdf12.pdf",
+        "path": "E:/Random Python Scripts/wasserstoff/Dataset\\pdf12.pdf",
+        "size": "262.64 KB",
+        "num_pages": 7,
+        "length_category": "Short"
+    },
+    {
+        "document_name": "pdf13.pdf",
+        "path": "E:/Random Python Scripts/wasserstoff/Dataset\\pdf13.pdf",
+        "size": "460.32 KB",
+        "num_pages": 12,
+        "length_category": "Medium"
+    },
+    {
+        "document_name": "pdf14.pdf",
+        "path": "E:/Random Python Scripts/wasserstoff/Dataset\\pdf14.pdf",
+        "size": "383.98 KB",
+        "num_pages": 11,
+        "length_category": "Medium"
+    },
+    {
+        "document_name": "pdf15.pdf",
+        "path": "E:/Random Python Scripts/wasserstoff/Dataset\\pdf15.pdf",
+        "size": "490.29 KB",
+        "num_pages": 13,
+        "length_category": "Medium"
+    },
+    {
+        "document_name": "pdf16.pdf",
+        "path": "E:/Random Python Scripts/wasserstoff/Dataset\\pdf16.pdf",
+        "size": "228.89 KB",
+        "num_pages": 41,
+        "length_category": "Long"
+    },
+    {
+        "document_name": "pdf17.pdf",
+        "path": "E:/Random Python Scripts/wasserstoff/Dataset\\pdf17.pdf",
+        "size": "2.13 MB",
+        "num_pages": 106,
+        "length_category": "Long"
+    },
+    {
+        "document_name": "pdf18.pdf",
+        "path": "E:/Random Python Scripts/wasserstoff/Dataset\\pdf18.pdf",
+        "size": "13.13 MB",
+        "num_pages": 24,
+        "length_category": "Medium"
+    },
+    {
+        "document_name": "pdf2.pdf",
+        "path": "E:/Random Python Scripts/wasserstoff/Dataset\\pdf2.pdf",
+        "size": "5.08 MB",
+        "num_pages": 131,
+        "length_category": "Long"
+    },
+    {
+        "document_name": "pdf3.pdf",
+        "path": "E:/Random Python Scripts/wasserstoff/Dataset\\pdf3.pdf",
+        "size": "2.30 MB",
+        "num_pages": 402,
+        "length_category": "Long"
+    },
+    {
+        "document_name": "pdf4.pdf",
+        "path": "E:/Random Python Scripts/wasserstoff/Dataset\\pdf4.pdf",
+        "size": "1.26 MB",
+        "num_pages": 102,
+        "length_category": "Long"
+    },
+    {
+        "document_name": "pdf5.pdf",
+        "path": "E:/Random Python Scripts/wasserstoff/Dataset\\pdf5.pdf",
+        "size": "327.27 KB",
+        "num_pages": 1,
+        "length_category": "Short"
+    },
+    {
+        "document_name": "pdf6.pdf",
+        "path": "E:/Random Python Scripts/wasserstoff/Dataset\\pdf6.pdf",
+        "size": "457.98 KB",
+        "num_pages": 13,
+        "length_category": "Medium"
+    },
+    {
+        "document_name": "pdf7.pdf",
+        "path": "E:/Random Python Scripts/wasserstoff/Dataset\\pdf7.pdf",
+        "size": "457.90 KB",
+        "num_pages": 12,
+        "length_category": "Medium"
+    },
+    {
+        "document_name": "pdf8.pdf",
+        "path": "E:/Random Python Scripts/wasserstoff/Dataset\\pdf8.pdf",
+        "size": "291.84 KB",
+        "num_pages": 8,
+        "length_category": "Short"
+    },
+    {
+        "document_name": "pdf9.pdf",
+        "path": "E:/Random Python Scripts/wasserstoff/Dataset\\pdf9.pdf",
+        "size": "302.82 KB",
+        "num_pages": 8,
+        "length_category": "Short"
+    }
+]
