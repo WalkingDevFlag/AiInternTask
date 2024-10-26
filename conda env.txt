@@ -10,4 +10,20 @@ Conda ENV
 
 5) python -m ipykernel install --user --name w
 
-6) pip install pymongo PyPDF2 fitz
+6) pip install pymongo PyPDF2 
+
+Conda Env Libraries downloaded for Text Summarization for Google/Pegasus Model
+
+1) pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+2) transformers[sentencepiece]
+3) datasets 
+4) sacrebleu
+5) rouge_score
+6) py7zr  
+
+Conda Env Libraries to follow the way of Amey
+
+1) nltk
+2) sumy
+3) pdfminer.six
+4) scikit-learn
